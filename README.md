@@ -18,7 +18,7 @@ A fun, interactive, and fully responsive **Memory Card Game** built using plain 
 
 * **Structure:** Semantic HTML5 (`Memory card game.html`)
 * **Styling:** CSS3 Featuring Linear Gradients, CSS Grid Layouts, and Dynamic Transform Transitions (`style.css`)[cite: 39]
-* **Logic Engine:** Vanilla JavaScript DOM Manipulation, Array Shuffling algorithms, and asynchronous timeout states (`script_2.js`)
+* **Logic Engine:** JavaScript DOM Manipulation, Array Shuffling algorithms, and asynchronous timeout states (`script_2.js`)
 
 
 ## 📁 Repository Structure
